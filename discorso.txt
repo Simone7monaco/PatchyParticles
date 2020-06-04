@@ -1,0 +1,6 @@
+The comprehension of glass behavior and glass transition is one of the most
+challenging problems in Physics. The main reason is essentially the fact that
+they have a slow behavior. While liquids are made of particles flowing over
+each other, and solids present a fixed structure from which particles have
+small movement from their positions, glasses behave as a mixture of the two.
+
